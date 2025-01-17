@@ -1,4 +1,5 @@
 # CampusCache
+Created by: Izak Robles, Colin Seper, Thomas Macas
 
 ## Description
 
